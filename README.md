@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This repository presents an academic biotechnology project focused on the **formulation and evaluation of a natural, eco-friendly herbal hair dye** using *Areca catechu* (peduncle and husk) extracts.  
-The formulation aims to provide a safer alternative to chemical hair dyes while addressing **premature graying and androgenic alopecia** through inhibition of **5-alpha reductase and DHT**.
+The formulation aims to provide a safer alternative to chemical hair dyes while addressing **premature graying and androgenic alopecia (Male pattern Baldness)"** through inhibition of **5-alpha reductase and DHT**.
 
 The project integrates phytochemical extraction, biochemical analysis, and product formulation with an emphasis on sustainability, safety, and functional efficacy.
 
